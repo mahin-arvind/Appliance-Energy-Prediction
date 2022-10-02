@@ -35,3 +35,5 @@ tuning, producing a final R-squared score of 0.771.
 Using LIME and ELI5, we found that
 this model’s predictions are mainly contributed by the time of the day and temperature in
 rooms 3 and 2.
+
+Project by: Mahin Arving Chanthira Sekaran
